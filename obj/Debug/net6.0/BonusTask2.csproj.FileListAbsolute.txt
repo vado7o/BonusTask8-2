@@ -1,0 +1,15 @@
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\bin\Debug\net6.0\BonusTask2.exe
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\bin\Debug\net6.0\BonusTask2.deps.json
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\bin\Debug\net6.0\BonusTask2.runtimeconfig.json
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\bin\Debug\net6.0\BonusTask2.dll
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\bin\Debug\net6.0\BonusTask2.pdb
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.csproj.AssemblyReference.cache
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.AssemblyInfoInputs.cache
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.AssemblyInfo.cs
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.csproj.CoreCompileInputs.cache
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.dll
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\refint\BonusTask2.dll
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.pdb
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\BonusTask2.genruntimeconfig.cache
+C:\Users\pvb07\Desktop\GB\HW8\BonusTask2\obj\Debug\net6.0\ref\BonusTask2.dll
